@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bInject", "bInject\bInject.vcproj", "{22138021-ECDD-4DCD-863F-273CB7F709C6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MessageBoxA", "MessageBoxA\MessageBoxA.vcproj", "{24D583DB-448A-47C9-885E-76B83F9B6889}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wsocksendto", "wsocksendto\wsocksendto.vcproj", "{A5E095AA-677B-4DD4-9224-C16885FECE1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22138021-ECDD-4DCD-863F-273CB7F709C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22138021-ECDD-4DCD-863F-273CB7F709C6}.Debug|Win32.Build.0 = Debug|Win32
+		{22138021-ECDD-4DCD-863F-273CB7F709C6}.Release|Win32.ActiveCfg = Release|Win32
+		{22138021-ECDD-4DCD-863F-273CB7F709C6}.Release|Win32.Build.0 = Release|Win32
+		{24D583DB-448A-47C9-885E-76B83F9B6889}.Debug|Win32.ActiveCfg = Debug|Win32
+		{24D583DB-448A-47C9-885E-76B83F9B6889}.Debug|Win32.Build.0 = Debug|Win32
+		{24D583DB-448A-47C9-885E-76B83F9B6889}.Release|Win32.ActiveCfg = Release|Win32
+		{24D583DB-448A-47C9-885E-76B83F9B6889}.Release|Win32.Build.0 = Release|Win32
+		{A5E095AA-677B-4DD4-9224-C16885FECE1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5E095AA-677B-4DD4-9224-C16885FECE1D}.Debug|Win32.Build.0 = Debug|Win32
+		{A5E095AA-677B-4DD4-9224-C16885FECE1D}.Release|Win32.ActiveCfg = Release|Win32
+		{A5E095AA-677B-4DD4-9224-C16885FECE1D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
